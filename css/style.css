@@ -107,10 +107,65 @@ color: white;
     color: black;
     right: 35%;
 }
-.poli {
-    width: 520px;
-    height: 450px;
-    float: right;
 
-    margin-right: 5%;
+.fl{
+    float: left;
+}
+.soro{
+
+    margin-top: 3%;
+    float: left;
+
+}
+.diviko{
+    box-sizing: border-box;
+    width: 1277px;
+    margin:0 auto;
+}
+.poli {
+    width: 540px;
+    height: 457px;
+    float: right;
+    margin-top: 3%;
+    margin-right: -4px;
+}
+.div1234{
+    width: 100%;
+}
+.ptex{
+    float: left;
+    margin-right: 6%;
+    position: absolute;
+    padding-top: 20%;
+    font-size: 22px;
+    color: mediumblue;
+}
+.zura{
+    margin-left: 2%;
+}
+.p123{
+    color: white;
+    float: right;
+    text-align: center;
+    margin-right: 22%;
+}
+.p1234{
+    color: white;
+    float: right;
+    font: 20px;
+}
+.p1234 {
+    color: white;
+    float: right;
+    font: 20px;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 0%;
+    padding-right: 7%;
+    margin-left: 48%;
+    margin-top: -17%;
+}
+.trapi {
+    margin-left: 2%;
+    margin-top: 13%;
 }

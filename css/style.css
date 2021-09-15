@@ -169,3 +169,126 @@ color: white;
     margin-left: 2%;
     margin-top: 13%;
 }
+.h1{
+    font-size: x-large;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.fl{
+    float: left;
+}
+.fr{float: right;}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.koko{
+    margin-top:3%;
+}
+.kiki{
+    color:gray;
+    margin-top: 5px;
+    font-size: x-small;
+}
+.popo {
+    color: gray;
+    margin-top: 10px;
+    font-size:10px;
+    width: 265px;
+    text-align: center;
+}
+.mini{
+    margin-top: 1%;
+}
+.yalo{
+    width: 840px;
+    background-color: yellow;
+    height: 5px;
+    margin-top: 3%;
+}
+.news{
+    margin-top: 3%;
+}
+.yalo1{
+    width: 214px;
+    background-color: yellow;
+    height: 3px;
+    margin-top: 5%;
+}
+.nodo{
+    width: 60px;
+    margin-top: 5%;
+}
+.nodote{
+    float: right;
+    margin-top: 18%;
+}
+.nodote1{
+    margin-top: -2%;
+    float: right;
+    margin-right: 24%;
+}
+.poot{
+    margin-top:10%;
+    width:204px ;
+}
+.poot1{
+    margin-top: 10%;
+    width: 222px;
+}
+.see{
+    margin-top: 1%;
+    width: 14px;
+    float: left;
+    margin-top: 5%;
+
+}
+.popit{
+    float: left;
+    margin-top: 5%;
+}
+.cha {
+    float: right;
+    margin-right: 54%;
+    margin-top: 5%;
+}
+.chat{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.minic {
+    width: 86px;
+    background-color: yellow;
+    height: 5px;
+    float: right;
+    margin-top: -6%;
+    margin-right: 10%;
+}
+.sharee{
+    float: right;
+    margin-top: -7%;
+}
+.diviko1 {
+    width: 5px;
+    height: 170px;
+    float: right;
+    background-color: yellow;
+    margin-right: -8%;
+    margin-top: -106%;
+}
+.ds{
+    display: inline-block;
+}
+.pp123{
+    margin-right: 36%;
+}
+.mt{
+    margin-top: 4%;
+}
+.yeloo{
+    width: 410px;
+    background-color: yellow;
+    height: 5px;
+    float: right;
+}
